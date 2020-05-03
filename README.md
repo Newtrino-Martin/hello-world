@@ -1,2 +1,2 @@
 # hello-world
-This is to learn contributing on github 
+This is to learn how to contributing on github 
